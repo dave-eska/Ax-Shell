@@ -471,7 +471,6 @@ in
 
     home.packages = [
       wrappedPackage
-      pkgs.ax-send
       pkgs.wl-clipboard
       pkgs.cliphist
       pkgs.swww
