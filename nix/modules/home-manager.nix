@@ -17,7 +17,6 @@ let
   };
 
   binaries = {
-    axSend = "${pkgs.ax-send}/bin/ax-send";
     matugen = "${pkgs.matugen}/bin/matugen";
     uwsm = "${pkgs.uwsm}/bin/uwsm-app";
   };
