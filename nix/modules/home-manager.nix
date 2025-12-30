@@ -191,7 +191,6 @@ in
     package = mkOption {
       type = types.package;
       default = pkgs.ax-shell;
-      defaultText = literalExpression "pkgs.ax-shell";
       description = "The Ax-Shell package to use.";
     };
 
