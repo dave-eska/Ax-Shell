@@ -190,7 +190,6 @@ in
 
     package = mkOption {
       type = types.package;
-      default = pkgs.ax-shell;
       description = "The Ax-Shell package to use.";
     };
 
